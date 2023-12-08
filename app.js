@@ -13,3 +13,7 @@ console.log("-------🍺", process.env.BANK_API_KEY);
 const app = express();
 
 app.listen(8000);
+
+//node hat process drin, und lädt sich die variblem von system
+
+// test
